@@ -1,5 +1,6 @@
 name = "xyzw"
-main = "src/index.ts"
+[assets]
+directory = "./dist"
 compatibility_date = "2023-12-01"
 
 [pages_build_config]
