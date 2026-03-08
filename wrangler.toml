@@ -1,4 +1,4 @@
-name = "xyzw"
+name = "xyzw_web_helper"
 compatibility_date = "2023-12-01"
 
 [pages_build_config]
